@@ -14,8 +14,8 @@ Game part:
   and more... 
 
 <div align="center" id="top">
-  <img src="https://github.com/kadircangeyik/DroneSimulationUnity3d/blob/main/Assets/Screenshoots/1.PNG" width="900" alt="Profile Readme Generator" />
-   <img src="https://github.com/kadircangeyik/DroneSimulationUnity3d/blob/main/Assets/Screenshoots/2.PNG" width="900" alt="Profile Readme Generator" />
+  <img src="https://github.com/kadircangeyik/DroneSimulationUnity3d/blob/main/Assets/Screenshoots/2.PNG" width="900" alt="Profile Readme Generator" />
+   <img src="https://github.com/kadircangeyik/DroneSimulationUnity3d/blob/main/Assets/Screenshoots/1.PNG" width="900" alt="Profile Readme Generator" />
   
 </div>
 
