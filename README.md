@@ -23,4 +23,4 @@ Game part:
 
 Here are some random useful / interesting links:
 - [Unity Manual](https://docs.unity3d.com/Manual/UnityManual.html)
-<a href="https://www.vecteezy.com/free-vector/shopping">Vectors by Vecteezy</a>
+-<a href="https://www.vecteezy.com/free-vector/shopping">Vectors by Vecteezy</a>
